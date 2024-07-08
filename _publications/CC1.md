@@ -2,7 +2,7 @@
 ---
 title: "CurveCluster+: Curve Clustering for Hard Landing Pattern Recognition and Risk Evaluation Based on Flight Data"
 collection: publications
-permalink: /publication/CC+
+permalink: /publication/CC1
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-10-13
 venue: 'IEEE Transactions on Intelligent Transportation Systems'
