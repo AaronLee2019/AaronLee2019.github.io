@@ -1,0 +1,12 @@
+---
+title: "SDTAN: Scalable Deep Time-Aware Attention Network for Interpretable Hard Landing Prediction"
+collection: publications
+permalink: /publication/SDTAN
+#excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+date: 2023-04-21
+venue: 'IEEE Transactions on Intelligent Transportation Systems'
+paperurl: 'https://doi.org/10.1109/tits.2023.3267035'
+citation: 'Chen, H., Shang, J., Zheng, L., Li, X., Liu, X., Sun, H., ... & Yu, L. (2023). SDTAN: Scalable Deep Time-Aware Attention Network for Interpretable Hard Landing Prediction. IEEE Transactions on Intelligent Transportation Systems, 24(9), 10211-10223.'
+---
+
+Hard landing, as one of the most frequent flight safety incidents during the landing stage, is highly concerned by the aviation industry. Recently, the popularization of Quick Access Recorder (QAR), a modern flight data recording system, has made it possible to collect large volume of flight parameters and incorporate state-of-the-art AI technologies to improve flight safety. However, due to the complex, multivariate, and highly specialized nature of QAR data, most existing studies either suffer from information loss caused by rough feature extraction methods, or rely solely on black-box models with no interpretations, making themselves difficult to achieve satisfactory performance in terms of prediction and explainability. To address this issue, we propose a novel attention-driven model named SDTAN (Scalable Deep Time-Aware Attention Network), which can accurately predict hard landing events and provide interpretable insights to help reveal the possible reasons leading to the events. Specifically, SDTAN fully captures information to learn the local representations of parameters, and leverages the time-interval attention mechanism to focus on the entire temporal pattern of flight over the relevant time intervals. It further re-encodes the representations of parameters in a global view and learns the global effect of parameters on the predicted output to uncover the ones which strongly indicate the flight safety status, enabling both high prediction accuracy and qualitative interpretability. We conduct experiments on real-world QAR datasets of 37,920 Airbus A320 flight samples. Experimental results demonstrate that SDTAN outperforms other state-of-the-art baselines and provides effective interpretability by visualizing the importance of parameters.
