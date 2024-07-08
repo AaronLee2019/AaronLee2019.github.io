@@ -1,4 +1,3 @@
-
 ---
 title: "CurveCluster+: Curve Clustering for Hard Landing Pattern Recognition and Risk Evaluation Based on Flight Data"
 collection: publications
