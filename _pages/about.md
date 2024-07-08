@@ -11,6 +11,7 @@ I'm a P.h.d candidate specializing in Artificial Intelligence at the [College of
 
 CV
 ======
+
 Education
 ======
 * P.h.D in College of Computer Science, Chongqing University, 2022-now
