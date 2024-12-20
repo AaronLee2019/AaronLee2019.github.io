@@ -1,7 +1,7 @@
 ---
 title: "MDGNN: Multiple Flight Safety Incidents Prediction Model Based on Dynamic Graph Neural Networks"
 collection: publications
-permalink: /publication/MRRI
+permalink: /publication/MDGNN
 #excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-10-01
 venue: 'Submitted'
