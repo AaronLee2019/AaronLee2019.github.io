@@ -3,7 +3,7 @@ title: "MRRI: Memory Retention Mechanism for Robust and Interpretable Time Serie
 collection: publications
 permalink: /publication/MRRI
 #excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-12
+date: 2024-08-02
 venue: 'Submitted'
 #paperurl: ''
 citation: 'Li, X., Zheng, L., Shang, J., Liao, L., & Zhang, J. (2024). MRRI: Memory Retention Mechanism for Robust and Interpretable Time Series Forecasting.'
