@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/MDGNN
 #excerpt: 'This paper is about fixing template issue #693.'
 date: 2025-03-11
-#venue: 'Submitted'
+venue: 'IEEE Transactions on Intelligent Transportation Systems'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10923645'
 citation: 'Song, L., Li, X., Liu, H., Wu, L., Sun, H., Zheng, L., & Shang, J. (2025). MDGNN: Multiple Flight Safety Incidents Prediction Model Based on Dynamic Graph Neural Networks. IEEE Transactions on Intelligent Transportation Systems.'
 ---
