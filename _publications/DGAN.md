@@ -3,7 +3,7 @@ title: "DGAN: Flight sensor data anomaly detection based on dual-view graph atte
 collection: publications
 permalink: /publication/DGAN
 #excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-10-20
+date: 2025-04-28
 #venue: 'Submitted'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10979258/'
 citation: 'Yan, W., Li, X., Zheng, L., Shang, J., Wu, L., Liu, H., ... & Qian, Y. (2025). DGAN: Flight data anomaly detection based on dual-view graph attention network. IEEE Sensors Journal.'
