@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/FGTHFL
 #excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2025-05-26
-#venue: 'The Visual Computer'
+venue: 'IEEE Transactions on Intelligent Transportation Systems'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/11015832'
 citation: 'Cai, J., Shang, J., Li, X., Li, C., & Zheng, L. (2025). Fine-Grained Time and Hidden Feature Learning for Interpretable Hard Landing Prediction Based on QAR Data. IEEE Transactions on Intelligent Transportation Systems.'
