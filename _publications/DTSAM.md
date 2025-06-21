@@ -1,1 +1,0 @@
-Shang, J., Li, X., Zhang, R., Zheng, L., Li, X., Zhang, R., ... & Sun, H. (2025). A Dual Two-Stage Attention-based Model for interpretable hard landing prediction from flight data. Engineering Applications of Artificial Intelligence, 154, 110911.

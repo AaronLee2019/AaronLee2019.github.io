@@ -1,0 +1,12 @@
+---
+title: "A Dual Two-Stage Attention-based Model for interpretable hard landing prediction from flight data"
+collection: publications
+permalink: /publication/DUTSAM
+#excerpt: 'This paper is about fixing template issue #693.'
+date: 2025-03-20
+venue: 'Engineering Applications of Artificial Intelligence'
+paperurl: 'https://doi.org/10.1016/j.engappai.2025.110911'
+citation: 'Shang, J., Li, X., Zhang, R., Zheng, L., Li, X., Zhang, R., ... & Sun, H. (2025). A Dual Two-Stage Attention-based Model for interpretable hard landing prediction from flight data. Engineering Applications of Artificial Intelligence, 154, 110911.'
+---
+
+Hard landings are a significant safety concern in aviation, with potential consequences ranging from poor passenger experiences to serious injuries or fatalities. Predicting and explaining hard landing events are equally important for enhancing flight safety, the former makes it possible to give proactive warnings, while the latter helps pilots identify the reasons and refine their skills. However, existing studies generally lack a comprehensive consideration for the fine-grained characteristics of flight data containing both inter-temporal and inter-parametric relationships, resulting in suboptimal prediction performance. In addition, most of existing approaches aim at improving the prediction performance but fail to provide interpretability for the causes of hard landing. To address the above problems, we propose DUTSAM, a DUal Two-Stage Attention-based interpretable Model for hard landing prediction from quick access recorder (QAR) data. The model consists of dual parallel modules, each of which combines a convolutional feature encoder and a two-stage attention mechanism. The two encoders capture fine-grained characteristics by encoding multivariate data from temporal domain and parametric domain respectively. After that, the dual two-stage attention mechanism captures the inter-temporal and inter-parametric correlations in reverse order to predict hard landing and provide interpretation from both temporal and parametric perspectives. Experimental results on a real QAR dataset with 37,920 flights show that DUTSAM achieves better prediction performance compared with other state-of-the-art baselines in terms of Precision, Recall, and F1-score. Additionally, case study demonstrates that DUTSAM can uncover key flight parameters and moments strongly correlated to the hard landing events.
