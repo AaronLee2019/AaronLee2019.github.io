@@ -17,10 +17,16 @@ Education
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+{% assign pubs_by_year = site.publications | group_by_exp: "post", "post.date | date: '%Y'" %}
+{% assign sorted_years = pubs_by_year | sort: "name" | reverse %}
 
-
+{% for year_group in sorted_years %}
+  <h2>{{ year_group.name }}</h2>
+  <ul>
+    {% for post in year_group.items %}
+      {% include archive-single-cv.html %}
+    {% endfor %}
+  </ul>
+{% endfor %}
 
 [Email](mailto:leuio@foxmail.com)
