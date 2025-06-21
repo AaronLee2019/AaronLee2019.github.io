@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/DGAN
 #excerpt: 'This paper is about fixing template issue #693.'
 date: 2025-04-28
-venue: 'Accept'
+venue: 'IEEE Sensors Journal'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10979258/'
 citation: 'Yan, W., Li, X., Zheng, L., Shang, J., Wu, L., Liu, H., ... & Qian, Y. (2025). DGAN: Flight data anomaly detection based on dual-view graph attention network. IEEE Sensors Journal.'
 ---
