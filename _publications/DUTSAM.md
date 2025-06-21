@@ -3,7 +3,7 @@ title: "A Dual Two-Stage Attention-based Model for interpretable hard landing pr
 collection: publications
 permalink: /publication/DUTSAM
 #excerpt: 'This paper is about fixing template issue #693.'
-date: 2025-03-20
+date: 2025-05-01
 venue: 'Engineering Applications of Artificial Intelligence'
 paperurl: 'https://doi.org/10.1016/j.engappai.2025.110911'
 citation: 'Shang, J., Li, X., Zhang, R., Zheng, L., Li, X., Zhang, R., ... & Sun, H. (2025). A Dual Two-Stage Attention-based Model for interpretable hard landing prediction from flight data. Engineering Applications of Artificial Intelligence, 154, 110911.'
